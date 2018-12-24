@@ -1,0 +1,105 @@
+{
+   "Account": "clearpathgps",
+   "Account_desc": "ClearPathGPS",
+   "TimeZone": "US/Pacific",
+   "DeviceList": [
+      {
+         "Device": "4542088719",
+         "Device_desc": "Steve",
+         "EventData": [
+            {
+               "Device": "4542088719",
+               "Timestamp": 1434413844,
+               "Timestamp_date": "2015/06/15",
+               "Timestamp_time": "17:17:24",
+               "StatusCode": 61472,
+               "StatusCode_hex": "0xF020",
+               "StatusCode_desc": "Moving",
+               "GPSPoint": "34.5918768,-120.0346171",
+               "GPSPoint_lat": 34.5918768,
+               "GPSPoint_lon": -120.0346171,
+               "Speed_kph": 90.0,
+               "Speed": 55.9,
+               "Speed_units": "mph",
+               "Heading": 137.0,
+               "Heading_desc": "SE",
+               "Odometer_km": 4713.741,
+               "Odometer": 2928.983,
+               "Odometer_units": "Miles",
+               "Address": "San Marcos Pass Road, Santa Ynez, CA 93460, USA",
+               "Index": 0
+            },
+            {
+               "Device": "4542088719",
+               "Timestamp": 1434413875,
+               "Timestamp_date": "2015/06/15",
+               "Timestamp_time": "17:17:55",
+               "StatusCode": 61472,
+               "StatusCode_hex": "0xF020",
+               "StatusCode_desc": "Moving",
+               "GPSPoint": "34.5881590,-120.0284036",
+               "GPSPoint_lat": 34.5881590,
+               "GPSPoint_lon": -120.0284036,
+               "Speed_kph": 88.0,
+               "Speed": 54.7,
+               "Speed_units": "mph",
+               "Heading": 107.0,
+               "Heading_desc": "E",
+               "Odometer_km": 4714.444,
+               "Odometer": 2929.420,
+               "Odometer_units": "Miles",
+               "Address": "203-227 San Marcos Pass Road, Santa Ynez, CA 93460, USA",
+               "Index": 1
+            }
+         ]
+      },
+      {
+         "Device": "4731009570",
+         "Device_desc": "Scott",
+         "EventData": [
+            {
+               "Device": "4731009570",
+               "Timestamp": 1434413815,
+               "Timestamp_date": "2015/06/15",
+               "Timestamp_time": "17:16:55",
+               "StatusCode": 61472,
+               "StatusCode_hex": "0xF020",
+               "StatusCode_desc": "Moving",
+               "GPSPoint": "34.4281925,-119.6924521",
+               "GPSPoint_lat": 34.4281925,
+               "GPSPoint_lon": -119.6924521,
+               "Speed_kph": 11.0,
+               "Speed": 6.8,
+               "Speed_units": "mph",
+               "Heading": 276.0,
+               "Heading_desc": "W",
+               "Odometer_km": 105227.804,
+               "Odometer": 65385.526,
+               "Odometer_units": "Miles",
+               "Address": "701-799 East Canon Perdido Street, Santa Barbara, CA 93103, USA",
+               "Index": 0
+            },
+            {
+               "Device": "4731009570",
+               "Timestamp": 1434413835,
+               "Timestamp_date": "2015/06/15",
+               "Timestamp_time": "17:17:15",
+               "StatusCode": 62467,
+               "StatusCode_hex": "0xF403",
+               "StatusCode_desc": "Ignition_Off",
+               "GPSPoint": "34.4281380,-119.6925163",
+               "GPSPoint_lat": 34.4281380,
+               "GPSPoint_lon": -119.6925163,
+               "Speed_kph": 0.0,
+               "Speed": 0.0,
+               "Speed_units": "mph",
+               "Odometer_km": 105227.812,
+               "Odometer": 65385.531,
+               "Odometer_units": "Miles",
+               "Address": "701-799 East Canon Perdido Street, Santa Barbara, CA 93103, USA",
+               "Index": 1
+            }
+         ]
+      }
+   ]
+}
